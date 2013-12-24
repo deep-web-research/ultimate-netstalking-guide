@@ -35,7 +35,7 @@ Google
 > site:pastebin.com dorks
 
 База данных дорков [тут](http://www.exploit-db.com/google-dorks/).
-Запросы для поиска IP камер [здесь](http://toot-boodet-ssilka.com/).
+Запросы для поиска IP камер [здесь](http://www.google.com/search?q=site:pastebin.com+camera+dork).
 
 
 Yandex
